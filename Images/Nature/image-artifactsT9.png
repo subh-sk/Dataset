@@ -1,0 +1,18 @@
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 283.46 283.46">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.37;
+      }
+
+      .cls-2 {
+        fill: #00597e;
+      }
+    </style>
+    <image id="image" width="86" height="85" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABSCAYAAADHLIObAAAACXBIWXMAAADEAAAAxAHPilhMAAAFTUlEQVR4Xu3aT28bxx2H8ec7s8uVKFmiRNt1ZSUQkIMVQKeccuk70HuI+xICWK9CfhE55CXkPfTWkw66tA1SR5Ed05IpS+T+mfn1QCs13DYu0HGXLeYBFiDIBXbxwZA7O0uZGbn/PPehHXL/XhkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyURkyUcWHdugjSbp9XbL4k1fLL29hS/jPLy3TOQ2EuuOn0sm+7OBUdnYmxxcARP6IdnZMJ/tmB6dWHD2xxliak18KSEnS8bHs7Myr2fH33lA02ys+vjEXm1oAblCZW1ccvJqHn9fpbHAWtLMT7OjIlmGE9g45EGof/97p6kGxNR5XNyXDsmHYeV9VviysaxyAikGsQ9sVIdTtsLweztrZRc2cA7plwOwVUpJ4/Njpwe+KO5ProfluJDSOaOywjQgrpsUFUUZ0MI9o6rCJvH8J9eX0fDLjy3HbN2avFxsdH0t/2C7Wy+thdIw9/mGnuOeN3Qh3DYbeFucYoIvo2sEkwg/Wtd87eW2uP7Tp2SgWWPeh433MeoMcCOnrB35097xqnR95/EPDHinyyBT3HG4cYRiJBYCgE3YTzP2M2EDeW7TWD7tmh/P27Kvv4kCHsa8LUG+Q3fFT8T3+pmQ4CBp3inuCRxifI+1GbISxArqd60aDObKRoITYOunqRvGqDsyM0w4O468e9CPWy4R8IKSTfd0bUgyaahjN7nrTrpntmWPXzH6DsY3YgLeb2ADbEtwHHgKfRPita9xW1RarfLLhOX5nsvlfrhdIAA7GaroVX/quCtKdCGPEWMbIoTWwCqNk8a0pFq9VAWvAFtI9sPvy2mxkK+PX50U4+U4D9YPZH+TZnxT8pQvRCh9j5RyrQqtAFaFAcizOT283B+adURqsGKzhtBYsrsbGl10hZy9Oe0GEPiF/aQB4MIRpgWYm7F+MLAGmt/uoN7j36w9y5zPzYRQdMTisjWY1ig3QISL8w5zQQAZEyVqhuZnNnFMt33RFtx11f7+XKzb0CXkysaJTbNQ0AbsGppiuMGagBhSACNjbLSK6CLWJNzgugYvC7Gpgq/NJMQv+4LC3++9eIBvD/MGhTTbLrnLFDK9LxHOwF4hXwDVYjWhhsTloiMwxrmRcYHqJ9NJw09kg1FTboTt6+oEjf7x6m0dyhPHVNNSbzGLnLsrgforir8CmQSnUYVQsfkAtohZxjfES7JngGdiLGLlabUI9H78KBU96GY3QJyQg9sPIn85nrbusjR9N7g5YiamV4j2DIciDIrKaqOli5Pq/mHV/VuB528Sra163sNnbXQ30vGgxEApff1tsvLochtV2O5rtSm7PoU8jjA1bYzEio2AOeo3x3Dt+DCE+GwR37obl5eTT2aw4ehL6hOx1RLYI7RyH1z9M5hvr4wtHZRbCLMILh21EqbJgXk5RoonYNc5fNB0XseouV6iuJtNZDfQ6GqHnEQl/X9TlhGKrYuVmtVwtb9q1xXqkFdbh5LzVQV1RhLo2zQc33Wy0zfyMB63tnC/F4m7vkPDrK+S3+7h1xaJTnEzLDqZB7Ad9cxiDtBTPcJYC8rZ/9szm9rP3n9e0LAfgbUsFedu7TxHfb5nw3m0pIf8X6+XO5v+xDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmoDJmovwF8npH8D44NnQAAAABJRU5ErkJggg=="/>
+  </defs>
+  <title>icon_site_</title>
+  <use class="cls-1" transform="translate(-409.69 -445.74) scale(13.74)" xlink:href="#image"/>
+  <polygon class="cls-2" points="178.51 85.72 203.37 36.73 186.07 88.83 205.2 73.92 192.12 94.34 215.19 86.88 195.91 101.58 254.09 99.24 197 109.69 206.97 116.06 195.24 117.68 259.42 161.24 190.87 124.58 207.44 145.33 184.39 129.58 187.74 153.6 176.6 132.06 168.96 195.33 168.43 131.72 155.55 152.27 160.87 128.61 141.74 143.52 154.82 123.1 117.78 139.51 151.03 115.85 97.55 114.88 149.94 107.75 141.69 101.75 151.69 99.76 57.72 29.05 156.07 92.85 139.55 65.78 162.55 87.86 152.27 58.46 170.34 85.38 172.43 54.11 178.51 85.72"/>
+  <use class="cls-1" transform="translate(-409.69 -803.88) scale(13.74)" xlink:href="#image"/>
+</svg>

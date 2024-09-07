@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.46 283.46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8cbcd3;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #015c83;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 13px;
+      }
+    </style>
+  </defs>
+  <title>icon_site_2_</title>
+  <g id="Calque_3" data-name="Calque 3">
+    <path class="cls-1" d="M251.25,148.35l-107.64,51.2S77.89,171,32.21,151.76a120.21,120.21,0,0,1,219-3.41Z"/>
+    <polyline class="cls-2" points="6.92 136.04 141.73 199.55 275.81 136.25"/>
+  </g>
+</svg>
